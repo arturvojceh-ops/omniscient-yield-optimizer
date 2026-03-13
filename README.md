@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🎯 Contact & Support
 
-- **📧 Email**: info@omniscient-yield.com
+- **📧 Email**: arturvojceh@gmail.com
 - **💬 Telegram**: [@VAA369](https://t.me/VAA369)
 - **🐛 Issues**: [GitHub Issues](https://github.com/arturvojceh-ops/omniscient-yield-optimizer/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/arturvojceh-ops/omniscient-yield-optimizer/discussions)
